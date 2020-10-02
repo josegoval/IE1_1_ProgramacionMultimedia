@@ -4,7 +4,7 @@ Se desarrollará una aplicación de 3 ventanas para la asginatura Programación 
 
 ## Autores
 
-- Alcántara Montero, Miguel
+- Alcántara Montero, Miguel (@miguelalmont)[https://github.com/miguelalmont]
 - Gómez Martínez, José Manuel (@josegoval)[https://github.com/josegova]
 - Ruso Álvarez, José Francisco (@JoserusoDAM)[https://github.com/JoserusoDAM]
 
