@@ -8,6 +8,10 @@ Se desarrollará una aplicación de 3 ventanas para la asginatura Programación 
 - Ruso Álvarez, José Francisco (@JoserusoDAM)[https://github.com/JoserusoDAM]
 - Alcántara Montero, Miguel
 
+## Instalación
+Tras hacer clone del proyecto, utilizar `yarn install` para instalar las dependencias. Y por último `yarn android` para ponerlo a funcionar. <br/>
+Si hubiese algún problema buscando el emulador abrir 2 consolas y haced primero en una `yarn start` y en la otra, después de haberse iniciado `yarn android`.
+
 ## Objetivos
 
 Se crearán 3 pantallas navegables, una asignada para cada autor del proyecto:
