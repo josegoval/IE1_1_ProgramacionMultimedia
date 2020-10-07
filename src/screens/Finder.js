@@ -7,8 +7,8 @@ import PhoneCard from '../components/PhoneCard';
 import {generateCustomList} from '../utils/FinderUtils';
 
 /**
- * Parte de Ruso.
- * Lista de Todos.
+ * Parte de Jose.
+ * Filtro sobre una lista de contactos.
  */
 export default function Finder() {
   const [textInputValue, settextInputValue] = useState('');
