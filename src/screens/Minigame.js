@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text} from 'react-native';
+import ComponentMG from '../Components/ComponentMG';
 
 /**
  * Parte de Miguel.
@@ -8,7 +8,7 @@ import {View, Text} from 'react-native';
 export default function Minigame() {
   return (
     <View>
-      <Text>Minigame</Text>
+      <ComponentMG />
     </View>
   );
 }
