@@ -1,5 +1,6 @@
 import React from 'react';
-import ComponentMG from '../Components/ComponentMG';
+import {View} from 'react-native';
+import ComponentMG from '../components/ComponentMG';
 
 /**
  * Parte de Miguel.

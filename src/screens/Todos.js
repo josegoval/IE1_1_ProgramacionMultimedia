@@ -7,9 +7,9 @@ import {
   Keyboard,
   TouchableWithoutFeedback,
 } from 'react-native';
-import Header from './components/header';
-import TodoItem from './components/todoItem';
-import AddTodo from './components/addTodo';
+import Header from '../components/header';
+import TodoItem from '../components/todoItem';
+import AddTodo from '../components/addTodo';
 
 export default function Todos() {
   const [todos, setTodos] = useState([
