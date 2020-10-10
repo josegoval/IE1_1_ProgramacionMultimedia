@@ -1,2 +1,3 @@
 generate icons: https://easyappicon.com/
 solve build bug: https://stackoverflow.com/questions/61024657/react-native-gradlew-assemblerelease-build-failed-execution-failed-for-task-a
+variant release: https://medium.com/@devesu/react-native-android-release-build-crash-on-device-14f2c9eacf18
